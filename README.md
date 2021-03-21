@@ -1,3 +1,3 @@
-# PasswordGenerator
+# Password Generator
 
-Password generator
+Random Password generator. Latest version found in version.txt
